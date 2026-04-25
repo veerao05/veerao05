@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Veerao! 👋</h1>
+<h1 align="center">Hi, I'm Veena! 👋</h1>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=veerao05.veerao05&left_color=royalblue&right_color=black" />
 
