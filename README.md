@@ -16,7 +16,7 @@
 
 ## 🌐 Let's Connect and Grow Together!
 
-<a href="https://www.linkedin.com/in/veerao05/" target="_blank">
+<a href="https://www.linkedin.com/in/veena-rao-57410a69/" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" height="40"/>
 </a>
 &nbsp;
